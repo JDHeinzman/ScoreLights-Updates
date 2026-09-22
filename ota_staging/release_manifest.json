@@ -1,0 +1,25 @@
+{
+  "manifestVersion": 1,
+  "channel": "stable",
+  "firmware": {
+    "version": "1.3.2",
+    "url": "https://raw.githubusercontent.com/JDHeinzman/ScoreLights-Updates/main/ota_staging/firmware_v1.3.2.bin",
+    "sha256": "dbe55f73f81806bac3437d346b147a35b53553d7c0b922a68bc0eca8a583ddd2",
+    "minHwRev": "1.0",
+    "allowedHwRevs": [],
+    "minCatalogVersion": 0,
+    "minPackageSchema": 1,
+    "targetCohorts": [],
+    "targetProfileIds": [
+      "nfl-nyg"
+    ],
+    "targetSerialNumbers": [
+      "SL-DEV-0001"
+    ]
+  },
+  "catalog": {
+    "version": 0,
+    "baseUrl": "https://raw.githubusercontent.com/JDHeinzman/ScoreLights-Updates/main/catalog/profiles/"
+  },
+  "signature": "MEUCIHTPLfjAtYuwTeoLmtcsore+rTZ2MVSduYwYbs8tm8K7AiEAkyY2rzIFUh/Npo/smXG6DGMG9O/p6HcAVMpnoLR82+8="
+}

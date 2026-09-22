@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "profile_id": "nfl-nyg",
+  "league": "NFL",
+  "team": "NYG",
+  "display_name": "New York Giants",
+  "package_version": "1.0.0",
+  "minimum_firmware_version": "1.0.0",
+  "team_config": {
+    "file": "team.json",
+    "version": "1.0.0",
+    "byte_size": 634,
+    "sha256": "a36cc79c9f312a0fe3f96a2fa00d016dfe2e2700c9dc0334533885fe114b4421"
+  },
+  "animation": {
+    "file": "scorelight.bin",
+    "version": "1.0.0",
+    "led_count": 160,
+    "frame_count": 200,
+    "total_duration_ms": 15000,
+    "byte_size": 96420,
+    "sha256": "e5be5dd8df83b347728b9de46748372e1a466faa1f977feaa78245eb346fe942"
+  },
+  "signature": "MEQCICy0FnqDLgK6/t0rcEjQbGiSDXneFCdQy5nGl//TaDl0AiBo0Z9c9WaUKh4FihDB126vSGeVyBCQKE036Gzu8mdIQw=="
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "profile_id": "nfl-nyg",
+  "league": "NFL",
+  "sport": "NFL",
+  "team": "NYG",
+  "display_name": "New York Giants",
+  "short_name": "Giants",
+  "package_version": "1.0.0",
+  "config_version": "1.0.0",
+  "animation_version": "1.0.0",
+  "colors": {
+    "primary": "#0B2265",
+    "secondary": "#A71930"
+  },
+  "aliases": [
+    "NYG",
+    "New York",
+    "New York Giants",
+    "Giants"
+  ],
+  "primary": {
+    "provider": "ESPN",
+    "team_id": "19",
+    "abbrev": "NYG",
+    "priority": 0
+  },
+  "backup1": {
+    "provider": "ActionNetwork",
+    "team_id": "NYG",
+    "abbrev": "NYG",
+    "priority": 1
+  }
+}
