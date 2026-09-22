@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "profile_id": "nhl-tbl",
+  "league": "NHL",
+  "team": "TBL",
+  "display_name": "Tampa Bay Lightning",
+  "package_version": "1.0.0",
+  "minimum_firmware_version": "1.0.0",
+  "team_config": {
+    "file": "team.json",
+    "version": "1.0.0",
+    "byte_size": 674,
+    "sha256": "e2a76b2696579db4a3e7d28fb6c1432aefd6f82a3a260eda6be3095da5e430c6"
+  },
+  "animation": {
+    "file": "scorelight.bin",
+    "version": "1.0.0",
+    "led_count": 160,
+    "frame_count": 132,
+    "total_duration_ms": 14000,
+    "byte_size": 63644,
+    "sha256": "5d9131b3e48d3fbb8d2a951ad7cff7ecc2df214d5263780b395cdd280c3970cc"
+  },
+  "signature": "PENDING_SIGNATURE"
+}

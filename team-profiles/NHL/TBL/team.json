@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "profile_id": "nhl-tbl",
+  "league": "NHL",
+  "sport": "NHL",
+  "team": "TBL",
+  "display_name": "Tampa Bay Lightning",
+  "short_name": "Lightning",
+  "package_version": "1.0.0",
+  "config_version": "1.0.0",
+  "animation_version": "1.0.0",
+  "colors": {
+    "primary": "#002868",
+    "secondary": "#FFFFFF"
+  },
+  "aliases": [
+    "TBL",
+    "Tampa Bay",
+    "Tampa Bay Lightning",
+    "Lightning",
+    "Bolts",
+    "Bolts"
+  ],
+  "primary": {
+    "provider": "ESPN",
+    "team_id": "14",
+    "abbrev": "TB",
+    "priority": 0
+  },
+  "backup1": {
+    "provider": "ActionNetwork",
+    "team_id": "TBL",
+    "abbrev": "TBL",
+    "priority": 1
+  }
+}
