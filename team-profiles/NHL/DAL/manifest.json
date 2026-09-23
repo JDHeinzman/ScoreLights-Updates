@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "profile_id": "nhl-dal",
+  "league": "NHL",
+  "team": "DAL",
+  "display_name": "Dallas Stars",
+  "package_version": "1.0.0",
+  "minimum_firmware_version": "1.0.0",
+  "team_config": {
+    "file": "team.json",
+    "version": "1.0.0",
+    "byte_size": 623,
+    "sha256": "e135a06fcb7c8169c0a1b70b851db02860d54860fe7dee3356e360c4f0404dd4"
+  },
+  "animation": {
+    "file": "scorelight.bin",
+    "version": "1.0.0",
+    "led_count": 160,
+    "frame_count": 228,
+    "total_duration_ms": 11580,
+    "byte_size": 109916,
+    "sha256": "ce55dede91a9c3d1033e40828ac0d60731441460d73f64c01d8f43660fc134f3"
+  },
+  "signature": "MEYCIQDC4LQ6Iq7/f8Nf3zGZlIvc6M8m4aJmSL2gAh+HeCc5SwIhAMahPQJRKjZsIOEpVDWVEKekBl7sqkUVkXEW0sIMzI9C"
+}

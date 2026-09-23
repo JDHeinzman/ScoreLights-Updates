@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "profile_id": "nhl-dal",
+  "league": "NHL",
+  "sport": "NHL",
+  "team": "DAL",
+  "display_name": "Dallas Stars",
+  "short_name": "Stars",
+  "package_version": "1.0.0",
+  "config_version": "1.0.0",
+  "animation_version": "1.0.0",
+  "colors": {
+    "primary": "#006847",
+    "secondary": "#8F8F8C"
+  },
+  "aliases": [
+    "DAL",
+    "Stars",
+    "Dallas Stars",
+    "Dallas"
+  ],
+  "primary": {
+    "provider": "ESPN",
+    "team_id": "6",
+    "abbrev": "DAL",
+    "priority": 0
+  },
+  "backup1": {
+    "provider": "ActionNetwork",
+    "team_id": "DAL",
+    "abbrev": "DAL",
+    "priority": 1
+  }
+}
