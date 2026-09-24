@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "profile_id": "nfl-gb",
+  "league": "NFL",
+  "sport": "NFL",
+  "team": "GB",
+  "display_name": "Green Bay Packers",
+  "short_name": "Packers",
+  "package_version": "1.0.0",
+  "config_version": "1.0.0",
+  "animation_version": "1.0.0",
+  "colors": {
+    "primary": "#203731",
+    "secondary": "#FFB612"
+  },
+  "aliases": [
+    "GB",
+    "Packers",
+    "Green Bay",
+    "Green Bay Packers"
+  ],
+  "primary": {
+    "provider": "ESPN",
+    "team_id": "9",
+    "abbrev": "GB",
+    "priority": 0
+  },
+  "backup1": {
+    "provider": "ActionNetwork",
+    "team_id": "GB",
+    "abbrev": "GB",
+    "priority": 1
+  }
+}

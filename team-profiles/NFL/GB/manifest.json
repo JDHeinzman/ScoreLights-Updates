@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "profile_id": "nfl-gb",
+  "league": "NFL",
+  "team": "GB",
+  "display_name": "Green Bay Packers",
+  "package_version": "1.0.0",
+  "minimum_firmware_version": "1.0.0",
+  "team_config": {
+    "file": "team.json",
+    "version": "1.0.0",
+    "byte_size": 634,
+    "sha256": "ac9559a10879cdc963130116d979941b37a705f023b8c5b3df4dc4aea6f9cd4d"
+  },
+  "animation": {
+    "file": "scorelight.bin",
+    "version": "1.0.0",
+    "led_count": 160,
+    "frame_count": 229,
+    "total_duration_ms": 11760,
+    "byte_size": 110398,
+    "sha256": "d8c6ee293fd46f80464c798d3f182fa73cf087a9917e00f3b9e3e8a5b0dd0846"
+  },
+  "signature": "MEYCIQDfRN6uwnERzWXiMt8Q7VWOLqYU0GD3pM4dBiCZhceapwIhAMPzCKrV6p3mnf16FctRvqz2S6Rv9ZoIjH15AW7lQW6X"
+}
