@@ -2,9 +2,9 @@
   "manifestVersion": 1,
   "channel": "stable",
   "firmware": {
-    "version": "1.4.1",
-    "url": "https://raw.githubusercontent.com/JDHeinzman/ScoreLights-Updates/main/ota_staging/firmware_v1.4.1.bin",
-    "sha256": "b64e2d152b169b7f628afbe7a458a429f04fd91298222e5429f2eb147db57593",
+    "version": "1.4.2",
+    "url": "https://raw.githubusercontent.com/JDHeinzman/ScoreLights-Updates/main/ota_staging/firmware_v1.4.2.bin",
+    "sha256": "a16da6f7739e8aab65331a63074c4d974d19946707028c18702af3f45bb4274a",
     "minHwRev": "1.0",
     "allowedHwRevs": [],
     "minCatalogVersion": 0,
@@ -17,5 +17,5 @@
     "version": 0,
     "baseUrl": "https://raw.githubusercontent.com/JDHeinzman/ScoreLights-Updates/main/catalog/profiles/"
   },
-  "signature": "MEYCIQDFA1LWRIAOVVCOTRdLobG72wUQqWDuDQ0FsJHrTAgEFgIhAPZf39TTBXHrbqxHkkfTY7X24oCBUGla9KWUC8SOFXAY"
+  "signature": "MEQCIBVB0+q7VfFeyS81fEaP54WWHCzr72FZLOZ/NnPd4YU2AiAvt9/U9bHU1z0hLeCc/vDz5na8DA4OFJo1otUv4mH0SA=="
 }
